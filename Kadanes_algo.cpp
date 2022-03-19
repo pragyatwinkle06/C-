@@ -1,6 +1,5 @@
 /*  Max sub array sum using Kadane's algo
-TC= O(n)
-*/
+TC= O(n)   */
 
 #include<iostream>
 #include<climits>
